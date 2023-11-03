@@ -1,0 +1,6 @@
+.DS_Store
+config.json
+/test
+/asim-articles2
+wikistats.py
+/.idea
